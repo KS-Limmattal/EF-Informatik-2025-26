@@ -2,7 +2,7 @@
 
 ## Installation
 
-- [Java Development Kit >= 8, empfohlen 23](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-23) oder über Linux-Repositories
+- [Java Development Kit >= 8, empfohlen 21](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-21) oder über Linux-Repositories
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Editor zur Java-Programmierung: empfohlen [VS Code](https://code.visualstudio.com/)
   - VS Code auf Englisch umstellen (falls nötig)

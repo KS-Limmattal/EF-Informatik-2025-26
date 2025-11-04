@@ -27,5 +27,6 @@
 - [Programmieraufgabe 0: Hello World](https://classroom.github.com/a/s1zYXxu1)
 - [Aufgaben zu den primitiven Datentypen](Datentypen.pdf)
 - [Programmieraufgabe 1: Imperative und funktionelle Programmierung](https://classroom.github.com/a/wV4YPust)
+- [Programmieraufgabe 2: Klassen 1](https://classroom.github.com/a/8pakpqRs)
 
 ## Prüfungsstoff (tba)

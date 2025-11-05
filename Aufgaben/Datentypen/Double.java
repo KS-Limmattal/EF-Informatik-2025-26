@@ -9,7 +9,7 @@ public class Double {
         // Problem 2
         double sum = 0;
         double summand = 0.1;
-        while (sum < 1) {
+        while (sum != 1) {
             System.out.println(sum);
             sum = sum + summand;
             TimeUnit.MILLISECONDS.sleep(1000);

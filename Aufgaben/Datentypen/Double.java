@@ -3,8 +3,8 @@ import java.util.concurrent.TimeUnit;
 public class Double {
     public static void main(String[] args) throws InterruptedException {
         // Problem 1
-        // double d = 1. / 2;
-        // System.out.println(d);
+        double d = 1 / 2;
+        System.out.println(d);
 
         // Problem 2
         double sum = 0;

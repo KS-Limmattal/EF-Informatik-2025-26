@@ -29,4 +29,14 @@
 - [Programmieraufgabe 1: Imperative und funktionelle Programmierung](https://classroom.github.com/a/wV4YPust)
 - [Programmieraufgabe 2: Klassen 1](https://classroom.github.com/a/8pakpqRs)
 
-## Prüfungsstoff (s. Mail)
+## Prüfungsstoff 1. Prüfung
+- Theorie bis und mit S. 5 (Kompiliation, Github, primitive Datentypen, Ganzzahlen)
+- Übungen: Methoden, Variablen und Schleifen, also die Klassen `Main`, `Calculations`, `Methods`, `Powers` und `Loops`
+
+## Prüfungsstoff 2. Prüfung
+- Theorie zu den Grundlagen: S. 6-12 (Fliesskommazahlen, Method Overloading, Sichtbarkeit von Variablen, Fehlersuche, Array-Syntax, Boolean) 
+- Übungen zu den Grundlagen: Arrays
+- Objektorientierte Programmierung (bis 5.2.2):
+  - Grundlagen (5.1): Was sind Klassen und Objekte, statische und Objektmethoden, UML-Diagramme etc. (theoretisch und passiv, d.h. Code lesen)
+  - Zusätzlich aktiv programmieren können (5.2.1-5.2.2): `toString()`, Encapsulation, Getter und Setter.
+

@@ -28,6 +28,7 @@
 - [Aufgaben zu den primitiven Datentypen](Datentypen.pdf)
 - [Programmieraufgabe 1: Imperative und funktionelle Programmierung](https://classroom.github.com/a/wV4YPust)
 - [Programmieraufgabe 2: Klassen 1](https://classroom.github.com/a/8pakpqRs)
+- [Programmieraufgabe 3: Klassen 2 (Jass)](https://classroom.github.com/a/jIUldDgN)
 
 ## Prüfungsstoff 1. Prüfung
 - Theorie bis und mit S. 5 (Kompiliation, Github, primitive Datentypen, Ganzzahlen)

@@ -41,3 +41,5 @@
   - Grundlagen (5.1): Was sind Klassen und Objekte, statische und Objektmethoden, UML-Diagramme etc. (theoretisch und passiv, d.h. Code lesen)
   - Zusätzlich aktiv programmieren können (5.2.1-5.2.2): `toString()`, Encapsulation, Getter und Setter.
 
+## Prüfungsstoff 3. Prüfung
+- Objektorientierte Programmierung

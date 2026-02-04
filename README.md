@@ -10,6 +10,9 @@
 
 ## Ressourcen
 
+### Aufbau eines Computers
+- [Modellprozessor]{https://abenteuer-informatik.de/}
+
 ### Java
 
 - Einsteiger_innenfreundliche Seite: [w3schools Java Tutorial](https://www.w3schools.com/java/default.asp)
